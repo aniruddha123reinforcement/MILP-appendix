@@ -1,14 +1,20 @@
 cff-version: 0.0.1
-message: "If you use this software, please cite it as below."
+message: "If you use this in your work, please cite it as below."
 
 authors:
-- family-names: "Lisa"
-  given-names: "Mona"
-- family-names: "Bot"
-  given-names: "Hew"
+- family-names: "Datta"
+  given-names: "Aniruddha"
+- family-names: "Yaganti"
+  given-names: "Bhanu Vikas"
+- family-names: "Dove"
+  given-names: "Andrew"
+- family-names: "Peltz"
+  given-names: "Arik"
+- family-names: "Chakrabarty"
+  given-names: "Krishnendu"
   
-title: "My Research Software"
-version: 2.0.4
+title: "Appendix"
+version: 0.0.1
 
 url: "https://github.com/aniruddha123reinforcement/MILP-appendix.git"
 
